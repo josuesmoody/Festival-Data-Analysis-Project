@@ -22,23 +22,23 @@ The results provide valuable insights into the growth of music festivals and the
 ---
 
 ## Folder Structure
-```bash
-. ├── data/ # Contains raw and cleaned data files 
-│ ├── festivals_data.json # Raw data scraped from festival websites 
-│ ├── cleaned_festivals_data.json # Cleaned and processed data 
-│ ├── werchter_data.json # Additional data specific to Rock Werchter 
-├── notebooks/ # Jupyter Notebooks for data analysis 
-│ ├── analysis_festivals.ipynb # Main notebook for data analysis 
-│ ├── werchter_start.ipynb # Initial scraping and exploration 
-├── scripts/ # Python scripts for scraping and cleaning 
-│ ├── scraping_festivals.py # Script for web scraping 
-│ ├── cleaning_data.py # Script for data cleaning 
-├── results/ # Contains final output files 
-│ ├── festival_analysis_summary.md # Markdown file summarizing insights 
-├── venv/ # Python virtual environment 
-├── .gitignore # Git ignore file 
-├── requirements.txt # Python dependencies 
-└── README.md # Project documentation
+      ```bash
+   . ├── data/ # Contains raw and cleaned data files 
+   │ ├── festivals_data.json # Raw data scraped from festival websites 
+   │ ├── cleaned_festivals_data.json # Cleaned and processed data 
+   │ ├── werchter_data.json # Additional data specific to Rock Werchter 
+   ├── notebooks/ # Jupyter Notebooks for data analysis 
+   │ ├── analysis_festivals.ipynb # Main notebook for data analysis 
+   │ ├── werchter_start.ipynb # Initial scraping and exploration 
+   ├── scripts/ # Python scripts for scraping and cleaning 
+   │ ├── scraping_festivals.py # Script for web scraping 
+   │ ├── cleaning_data.py # Script for data cleaning 
+   ├── results/ # Contains final output files 
+   │ ├── festival_analysis_summary.md # Markdown file summarizing insights 
+   ├── venv/ # Python virtual environment 
+   ├── .gitignore # Git ignore file 
+   ├── requirements.txt # Python dependencies 
+   └── README.md # Project documentation
 
 
 ---
