@@ -2,23 +2,23 @@
 # Music Festival Analysis
 
 ## 1. Festival with the Longest Continuous History
-- **Festival**: pukkelpop
-- **Duration**: 39 years (from 1985 to 2023)
+- **Festival**: Rock Werchter
+- **Duration**: 6 years (from 2019 to 2024)
 
 ## 2. Most Frequent Artists
 ### Top 10 Artists:
 | Artist | Frequency |
 |--------|-----------|
-| TLP | 18 |
-| Ed & Kim | 18 |
-| Michael Midnight | 18 |
-| Jan Van Biesen (DJ) | 16 |
-| 2manydjs (live) | 16 |
-| Tiga | 16 |
-| Nothing But Thieves | 15 |
-| Soulwax | 14 |
-| The Van Jets | 14 |
-| Dave Clarke | 14 |
+| Yungblud | 9 |
+| Nothing But Thieves | 9 |
+| Froukje | 6 |
+| RY X | 6 |
+| Greta Van Fleet | 6 |
+| IDLES | 6 |
+| Glints | 6 |
+| Miles Kane | 6 |
+| Zwangere Guy | 6 |
+| The Murder Capital | 6 |
 
 ## 3. Evolution of the Number of Artists Per Year
 A steady growth in the number of artists performing at festivals over the years is observed.
@@ -42,7 +42,7 @@ Check the generated visualization for more details.
 | Rock Werchter | 2022 | Pearl Jam, The War on Drugs, Pixies |
 | Rock Werchter | 2023 | Mumford & Sons, Stormzy, Sam Fender |
 | Rock Werchter | 2024 | Lenny Kravitz, Greta Van Fleet, Dropkick Murphys |
-| pukkelpop | 1985 | Anna Domino, Anne Clark, Front 242 |
+| rock_werchter | 2019 | $uicideboy$, Alice Phoebe Lou, All Them Witches |
 
 ## Conclusion
 The analysis shows clear trends of growth in music festivals and the increasing significance of certain standout artists over the years.
