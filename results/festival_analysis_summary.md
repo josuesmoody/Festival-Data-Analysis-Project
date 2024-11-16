@@ -1,14 +1,14 @@
 
-# Análisis de Festivales de Música
+# Music Festival Analysis
 
-## 1. Festival con la historia más larga de operación continua
+## 1. Festival with the Longest Continuous History
 - **Festival**: pukkelpop
-- **Duración**: 39 años (de 1985 a 2023)
+- **Duration**: 39 years (from 1985 to 2023)
 
-## 2. Artistas más frecuentes
-### Los 10 artistas más frecuentes:
-| Artista | Frecuencia |
-|---------|------------|
+## 2. Most Frequent Artists
+### Top 10 Artists:
+| Artist | Frequency |
+|--------|-----------|
 | TLP | 18 |
 | Ed & Kim | 18 |
 | Michael Midnight | 18 |
@@ -20,29 +20,29 @@
 | The Van Jets | 14 |
 | Dave Clarke | 14 |
 
-## 3. Evolución del número de artistas por año
-Se observa un crecimiento constante en el número de artistas en los festivales a lo largo del tiempo.
-Consulta el gráfico correspondiente para más detalles.
+## 3. Evolution of the Number of Artists Per Year
+A steady growth in the number of artists performing at festivals over the years is observed.
+Check the generated visualization for more details.
 
-## 4. Artistas presentes en múltiples festivales
-### Ejemplo de artistas que participaron en varios festivales en el mismo año:
-| Año | Artista | Número de Festivales |
-|-----|---------|-----------------------|
+## 4. Artists Performing at Multiple Festivals
+### Examples of artists who performed at multiple festivals in the same year:
+| Year | Artist | Number of Festivals |
+|------|--------|---------------------|
 | 2019 | $uicideboy$ | 2 |
 | 2019 | Alice Phoebe Lou | 2 |
 | 2019 | All Them Witches | 2 |
 | 2019 | Amyl and The Sniffers | 2 |
 | 2019 | Angèle | 2 |
 
-## 5. Headliners por festival y año
-### Ejemplo de headliners seleccionados:
-| Festival | Año | Artistas |
-|----------|-----|----------|
+## 5. Headliners by Festival and Year
+### Examples of Selected Headliners:
+| Festival       | Year | Artists            |
+|----------------|------|--------------------|
 | Rock Werchter | 2019 | P!NK, Bastille, Elbow |
 | Rock Werchter | 2022 | Pearl Jam, The War on Drugs, Pixies |
 | Rock Werchter | 2023 | Mumford & Sons, Stormzy, Sam Fender |
 | Rock Werchter | 2024 | Lenny Kravitz, Greta Van Fleet, Dropkick Murphys |
 | pukkelpop | 1985 | Anna Domino, Anne Clark, Front 242 |
 
-## Conclusión
-El análisis muestra tendencias claras de expansión en los festivales de música y la importancia de ciertos artistas destacados.
+## Conclusion
+The analysis shows clear trends of growth in music festivals and the increasing significance of certain standout artists over the years.
