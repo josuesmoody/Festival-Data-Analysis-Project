@@ -53,18 +53,18 @@ def get_pukkelpop_data():
     """
     Scraping específico para Pukkelpop.
     """
-    base_url = FESTIVALS["pukkelpop"]
+    base_url = "https://www.pukkelpop.be/nl/geschiedenis/"
     response = requests.get(base_url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # Obtener URLs de los años
-    links = soup.find_all('a', href=re.compile(r'/nl/geschiedenis/\d{4}'))
+    links = soup.find_all('a', href=re.compile(r'/geschiedenis/\d{4}'))
     year_urls = [f"https://www.pukkelpop.be{link['href']}" for link in links if 'href' in link.attrs]
 
     # Scraping de lineup por año
     data = {}
     for url in year_urls:
-        year_match = re.search(r'geschiedenis/(\d{4})', url)
+        year_match = re.search(r'/geschiedenis/(\d{4})', url)
         if year_match:
             year = year_match.group(1)
             lineup = scrape_pukkelpop_lineup(url)
@@ -72,17 +72,26 @@ def get_pukkelpop_data():
                 data[year] = lineup
     return data
 
+
 def scrape_pukkelpop_lineup(url):
+    """
+    Scraping del lineup de un año específico de Pukkelpop.
+    """
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Ajusta el selector según la estructura del HTML de Pukkelpop
-    lineup_div = soup.find('div', {'class': 'lineup-section'})
+    # Extraer lineup del ul específico
+    lineup_list = soup.select('ul.act-edition-detail__acts > li')
     bands = []
 
-    if lineup_div:
-        raw_text = lineup_div.get_text(separator=", ")
-        bands = [re.sub(r'\s+', ' ', band.strip()) for band in raw_text.split(",") if band.strip()]
+    for item in lineup_list:
+        # Algunos elementos pueden ser texto plano, otros enlaces
+        if item.find('a'):
+            band = item.find('a').get_text(strip=True)
+        else:
+            band = item.get_text(strip=True)
+        bands.append(band)
+
     return bands
 
 def main():

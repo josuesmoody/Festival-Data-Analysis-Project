@@ -31,6 +31,6 @@ def clean_festival_data(input_file, output_file):
     print(f"Datos limpios guardados en '{output_file}'")
 
 if __name__ == "__main__":
-    input_file = "festivals_data.json"
-    output_file = "cleaned_festivals_data.json"
+    input_file = "./data/festivals_data.json"
+    output_file = "./data/cleaned_festivals_data.json"
     clean_festival_data(input_file, output_file)
