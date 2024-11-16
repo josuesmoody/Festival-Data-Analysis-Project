@@ -22,6 +22,7 @@ The results provide valuable insights into the growth of music festivals and the
 ---
 
 ## Folder Structure
+1. Folders and Files
    ```bash
    . ├── data/ # Contains raw and cleaned data files 
    │ ├── festivals_data.json # Raw data scraped from festival websites 
