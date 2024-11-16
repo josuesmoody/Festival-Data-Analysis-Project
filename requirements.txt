@@ -1,5 +1,8 @@
-beautifulsoup4
-requests
 pandas
+numpy
 matplotlib
 jupyter
+ipython
+notebook
+beautifulsoup4
+requests
