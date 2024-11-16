@@ -6,24 +6,25 @@
 - **Duración**: 39 años (de 1985 a 2023)
 
 ## 2. Artistas más frecuentes
-Los 10 artistas más frecuentes en todos los festivales:
+### Los 10 artistas más frecuentes:
              artist  frequency
-   Michael Midnight         18
                 TLP         18
            Ed & Kim         18
+   Michael Midnight         18
+Jan Van Biesen (DJ)         16
     2manydjs (live)         16
                Tiga         16
-Jan Van Biesen (DJ)         16
 Nothing But Thieves         15
             Soulwax         14
+       The Van Jets         14
         Dave Clarke         14
-              Goose         14
 
 ## 3. Evolución del número de artistas por año
 Se observa un crecimiento constante en el número de artistas en los festivales a lo largo del tiempo.
+Consulta el gráfico correspondiente para más detalles.
 
 ## 4. Artistas presentes en múltiples festivales
-Ejemplo de artistas que participaron en varios festivales en el mismo año:
+### Ejemplo de artistas que participaron en varios festivales en el mismo año:
  year               artists  festival_count
  2019           $uicideboy$               2
  2019      Alice Phoebe Lou               2
@@ -32,7 +33,7 @@ Ejemplo de artistas que participaron en varios festivales en el mismo año:
  2019                Angèle               2
 
 ## 5. Headliners por festival y año
-Headliners seleccionados (primeros artistas listados) por año:
+### Ejemplo de headliners seleccionados:
      festival  year  level_2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              artists
 Rock Werchter  2019       83                                    [P!NK, Bastille, Elbow, Paul Kalkbrenner, Brockhampton, Charlotte Gainsbourg, Richard Ashcroft, Ólafur Arnalds, Vance Joy, Raleigh Ritchie, Maribou State, Bang Bang Romeo, KidCutUp, Mogwai, Black Box Revelation, Zwangere Guy, Deaf Havana, Miss Angel, Palace, Geike, The Vintage Caravan, Georgia, Tool, The Cure, Bring Me The Horizon, Kylie, Years & Years, Weezer, Janelle Monáe, The 1975, Robyn, Jungle, Khruangbin, Nothing But Thieves, Tom Misch, Snarky Puppy, Kurt Vile & The Violators, The Twilight Sad, Masego, Denzel Curry, Whispering Sons, Our Last Night, Foxing, SWMRS, Yonaka, Sea Girls, Warhola, Mumford & Sons, Florence + the Machine, Macklemore, The Good, The Bad & The Queen, Bear’s Den, Beirut, Angèle, Tourist LeMC, THE BLAZE, Two Door Cinema Club, Miles Kane, Clean Bandit, Aurora, SYML, Strand of Oaks, King Princess, Portland, Barns Courtney, All Them Witches, The Slow Readers Club, Alice Phoebe Lou, Donny Benét, The Murder Capital, John J. Presley, IBE, Muse, Greta Van Fleet, Balthazar, New Order, Underworld, Parkway Drive, Mac DeMarco, Rosalía, Tamino, RY X, $uicideboy$, Yungblud, Lewis Capaldi, De Staat, Dean Lewis, Mahalia, Lizzo, Grace Carter, Zeal & Ardor, Sports Team, Amyl and The Sniffers, Ibibio Sound Machine, Laurel, Black Honey, Didirri, Sophia Eris (Lizzo DJ)]
 Rock Werchter  2022       82                                                                     [Pearl Jam, The War on Drugs, Pixies, Rag'n'Bone Man, HAIM, Fontaines D.C., Gang of Youths, The Kid LAROI, Beck, First Aid Kit, Carly Rae Jepsen, Airbourne, The Dead South, Lianne La Havas, Black Pumas, RY X, Cigarettes After Sex, Altın Gün, Lady Blackbird, White Reaper, Glints, Reignwolf, Yumi Zouma, Owenn, ILA, Metallica, Turnstile, Lewis Capaldi, Bazart, IDLES, Miles Kane, Sum 41, Moderat, alt-J, Inhaler, Charles, STIKSTOF, Lous and the Yakuza, girl in red, Parcels, JC Stewart, SONS, Sans Soucis, The Chats, The Last Internationale, The Haunted Youth, Waterparks, Tin Fingers, MOLYBARON, Imagine Dragons, Twenty One Pilots, Anne-Marie, Yungblud, Måneskin, Nothing But Thieves, Goldband, Jamie xx, Jorja Smith, LP, Phoebe Bridgers, Sabrina Claudio, Marcus King, BICEP LIVE, Leon Bridges, Charlotte Adigéry & Bolis Pupul, Alec Benjamin, Yong Yello, Pitou, grandson, KennyHoopla, Mother Mother, The Faim, Sloper, Dea Matrona, Red Hot Chili Peppers, The Killers, Royal Blood, Balthazar, Keane, RHEA, Joost, Polo G, Disclosure, Michael Kiwanuka, Kacey Musgraves, Big Thief, FEVER 333, MEUTE, Lost Frequencies Live, Jimmy Eat World, Modest Mouse, Emma Bale, High Hi, Jehnny Beth, Snail Mail, The Record Company, Dry Cleaning, Bartees Strange, Peach Tree Rascals]
